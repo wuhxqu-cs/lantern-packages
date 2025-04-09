@@ -1,0 +1,5 @@
+all of these below are pre installed
+
+lantern_version
+lantern_info
+pc_info
